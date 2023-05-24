@@ -1,2 +1,2 @@
-# collision-of-balls
-https://ilushinvanya.github.io/collision-of-balls/
+# just balls
+https://ilushinvanya.github.io/just-balls/
